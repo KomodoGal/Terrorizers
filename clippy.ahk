@@ -1,6 +1,8 @@
 ﻿#persistent
 #NoTrayIcon
 
+; use Win+R and type shell:startup :)
+
 settimer, spreadLove, 1800000
 return
 
